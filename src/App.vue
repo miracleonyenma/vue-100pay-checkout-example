@@ -102,6 +102,7 @@ const handleSubmit = (e: Event) => {
           <option value="USD">USD</option>
           <option value="EUR">EUR</option>
           <option value="GBP">GBP</option>
+          <option value="NGN">NGN</option>
         </select>
       </div>
       <!-- amount -->
